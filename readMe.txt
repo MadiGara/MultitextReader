@@ -1,0 +1,12 @@
+* Madison Gara
+* 0973333
+
+* To run:
+make
+./main wonderland.txt SIG (or whatever files you'd like)
+
+* Expected output:
+Caught SIGCHLD PID <pid>
+Child exited normally/abnormally (<- for SIG) with status <integer>
+
+* The above should display for each child forked
